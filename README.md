@@ -1,0 +1,1 @@
+# Intellij SMTP test plugin
