@@ -1,0 +1,17 @@
+<idea-plugin>
+    <id>dev.talkischeap.intellij.smtp</id>
+    <name>SMTP Test</name>
+    <vendor url="http://www.talkischeap.dev">Michał Perlak</vendor>
+
+    <description><![CDATA[
+        Intellij plugin for testing SMTP integration
+    ]]></description>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>
